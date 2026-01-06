@@ -1,0 +1,17 @@
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Infrastructure.deps.json
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Infrastructure.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Infrastructure.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Domain.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\bin\Debug\net8.0\LBR.BookService.Application.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.AssemblyInfo.cs
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.Book.007AC949.Up2Date
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\refint\LBR.BookService.Infrastructure.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\ref\LBR.BookService.Infrastructure.dll

@@ -1,0 +1,17 @@
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.csproj.AssemblyReference.cache
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.AssemblyInfoInputs.cache
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.AssemblyInfo.cs
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.UnitTests.deps.json
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.UnitTests.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.UnitTests.pdb
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.Domain.pdb
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\bin\Debug\net8.0\LBR.BookService.Application.pdb
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.Book.EB49D4C7.Up2Date
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\refint\LBR.BookService.UnitTests.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.pdb
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\ref\LBR.BookService.UnitTests.dll

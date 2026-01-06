@@ -1,0 +1,15 @@
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\bin\Debug\net8.0\LBR.BookService.Application.deps.json
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\bin\Debug\net8.0\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\bin\Debug\net8.0\LBR.BookService.Application.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\bin\Debug\net8.0\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\bin\Debug\net8.0\LBR.BookService.Domain.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.csproj.AssemblyReference.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.AssemblyInfoInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.AssemblyInfo.cs
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.csproj.CoreCompileInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.Book.26302134.Up2Date
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\refint\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\ref\LBR.BookService.Application.dll

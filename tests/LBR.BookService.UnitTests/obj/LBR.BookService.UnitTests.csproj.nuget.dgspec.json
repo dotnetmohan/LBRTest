@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\LBR\\LBRTest\\tests\\LBR.BookService.UnitTests\\LBR.BookService.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\LBR.BookService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\LBR.BookService.Application.csproj",
+        "projectName": "LBR.BookService.Application",
+        "projectPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\LBR.BookService.Application.csproj",
+        "packagesPath": "C:\\Users\\425883\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\425883\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj": {
+                "projectPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj",
+        "projectName": "LBR.BookService.Domain",
+        "projectPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj",
+        "packagesPath": "C:\\Users\\425883\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\425883\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\LBR\\LBRTest\\tests\\LBR.BookService.UnitTests\\LBR.BookService.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\LBR\\LBRTest\\tests\\LBR.BookService.UnitTests\\LBR.BookService.UnitTests.csproj",
+        "projectName": "LBR.BookService.UnitTests",
+        "projectPath": "C:\\Projects\\LBR\\LBRTest\\tests\\LBR.BookService.UnitTests\\LBR.BookService.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\425883\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LBR\\LBRTest\\tests\\LBR.BookService.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\425883\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\LBR.BookService.Application.csproj": {
+                "projectPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Application\\LBR.BookService.Application.csproj"
+              },
+              "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj": {
+                "projectPath": "C:\\Projects\\LBR\\LBRTest\\src\\Services\\BookService\\LBR.BookService.Domain\\LBR.BookService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Temporarily removing packages due to NuGet download issues -->
+    <!-- <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.22" /> -->
+    <!-- <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LBR.BookService.Application\LBR.BookService.Application.csproj" />
+    <ProjectReference Include="..\LBR.BookService.Infrastructure\LBR.BookService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

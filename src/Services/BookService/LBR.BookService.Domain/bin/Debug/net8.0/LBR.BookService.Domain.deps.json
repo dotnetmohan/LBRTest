@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LBR.BookService.Domain/1.0.0": {
+        "runtime": {
+          "LBR.BookService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LBR.BookService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

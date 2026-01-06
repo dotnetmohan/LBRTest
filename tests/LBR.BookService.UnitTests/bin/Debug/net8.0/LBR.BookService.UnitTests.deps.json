@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LBR.BookService.UnitTests/1.0.0": {
+        "dependencies": {
+          "LBR.BookService.Application": "1.0.0",
+          "LBR.BookService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LBR.BookService.UnitTests.dll": {}
+        }
+      },
+      "LBR.BookService.Application/1.0.0": {
+        "dependencies": {
+          "LBR.BookService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LBR.BookService.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LBR.BookService.Domain/1.0.0": {
+        "runtime": {
+          "LBR.BookService.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LBR.BookService.UnitTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LBR.BookService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LBR.BookService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

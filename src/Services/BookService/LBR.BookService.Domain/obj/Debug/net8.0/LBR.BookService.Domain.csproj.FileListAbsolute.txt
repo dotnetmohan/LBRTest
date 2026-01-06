@@ -1,0 +1,11 @@
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\bin\Debug\net8.0\LBR.BookService.Domain.deps.json
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\bin\Debug\net8.0\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\bin\Debug\net8.0\LBR.BookService.Domain.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.AssemblyInfoInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.AssemblyInfo.cs
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\refint\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.pdb
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\ref\LBR.BookService.Domain.dll

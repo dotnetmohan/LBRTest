@@ -1,0 +1,11 @@
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\bin\Debug\net8.0\LBR.Shared.Common.deps.json
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\bin\Debug\net8.0\LBR.Shared.Common.dll
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\bin\Debug\net8.0\LBR.Shared.Common.pdb
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.AssemblyInfoInputs.cache
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.AssemblyInfo.cs
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.csproj.CoreCompileInputs.cache
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.dll
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\refint\LBR.Shared.Common.dll
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\LBR.Shared.Common.pdb
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Common\obj\Debug\net8.0\ref\LBR.Shared.Common.dll
