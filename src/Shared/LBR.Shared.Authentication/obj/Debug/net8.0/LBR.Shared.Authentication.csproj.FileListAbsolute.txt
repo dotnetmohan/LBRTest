@@ -9,3 +9,4 @@ C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Authentication\obj\Debug\net8.0\LB
 C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Authentication\obj\Debug\net8.0\refint\LBR.Shared.Authentication.dll
 C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Authentication\obj\Debug\net8.0\LBR.Shared.Authentication.pdb
 C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Authentication\obj\Debug\net8.0\ref\LBR.Shared.Authentication.dll
+C:\Projects\LBR\LBRTest\src\Shared\LBR.Shared.Authentication\obj\Debug\net8.0\LBR.Shared.Authentication.sourcelink.json

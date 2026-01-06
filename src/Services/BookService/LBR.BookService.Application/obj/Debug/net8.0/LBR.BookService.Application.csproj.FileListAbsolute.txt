@@ -13,3 +13,4 @@ C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\refint\LBR.BookService.Application.dll
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.pdb
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\ref\LBR.BookService.Application.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Application\obj\Debug\net8.0\LBR.BookService.Application.sourcelink.json

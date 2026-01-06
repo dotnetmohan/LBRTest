@@ -9,3 +9,4 @@ C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debu
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\refint\LBR.BookService.Domain.dll
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.pdb
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\ref\LBR.BookService.Domain.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Domain\obj\Debug\net8.0\LBR.BookService.Domain.sourcelink.json

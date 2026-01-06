@@ -33,3 +33,4 @@ C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.API\obj\Debug\n
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.API\obj\Debug\net8.0\LBR.BookService.API.pdb
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.API\obj\Debug\net8.0\LBR.BookService.API.genruntimeconfig.cache
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.API\obj\Debug\net8.0\ref\LBR.BookService.API.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.API\obj\Debug\net8.0\LBR.BookService.API.sourcelink.json

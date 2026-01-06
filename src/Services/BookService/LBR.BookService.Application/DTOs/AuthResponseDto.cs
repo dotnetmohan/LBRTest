@@ -1,0 +1,11 @@
+namespace LBR.BookService.Application.DTOs;
+
+/// <summary>
+/// DTO for authentication response
+/// </summary>
+public class AuthResponseDto
+{
+    public string Token { get; set; } = string.Empty;
+    public UserDto User { get; set; } = null!;
+    public DateTime ExpiresAt { get; set; }
+}

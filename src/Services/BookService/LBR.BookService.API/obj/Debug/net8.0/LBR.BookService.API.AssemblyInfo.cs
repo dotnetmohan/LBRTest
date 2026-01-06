@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LBR.BookService.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a92318d4701c85c7b80dc42b3d44e228b30fc37")]
 [assembly: System.Reflection.AssemblyProductAttribute("LBR.BookService.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LBR.BookService.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

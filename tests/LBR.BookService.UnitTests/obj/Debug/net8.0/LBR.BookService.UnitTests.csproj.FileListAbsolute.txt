@@ -15,3 +15,4 @@ C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.Boo
 C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\refint\LBR.BookService.UnitTests.dll
 C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.pdb
 C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\ref\LBR.BookService.UnitTests.dll
+C:\Projects\LBR\LBRTest\tests\LBR.BookService.UnitTests\obj\Debug\net8.0\LBR.BookService.UnitTests.sourcelink.json

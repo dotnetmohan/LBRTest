@@ -15,3 +15,4 @@ C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\refint\LBR.BookService.Infrastructure.dll
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.pdb
 C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\ref\LBR.BookService.Infrastructure.dll
+C:\Projects\LBR\LBRTest\src\Services\BookService\LBR.BookService.Infrastructure\obj\Debug\net8.0\LBR.BookService.Infrastructure.sourcelink.json
