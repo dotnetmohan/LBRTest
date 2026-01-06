@@ -1,0 +1,65 @@
+### LBR Book Service API Tests
+### Base URL: http://localhost:5025
+
+### Health Check - Basic
+GET http://localhost:5025/api/health
+Accept: application/json
+
+###
+
+### Health Check - Detailed Info
+GET http://localhost:5025/api/health/info
+Accept: application/json
+
+###
+
+### Test 404 - Non-existent endpoint
+GET http://localhost:5025/api/nonexistent
+Accept: application/json
+
+###
+
+# ==================================
+# Future Endpoints (To be implemented)
+# ==================================
+
+### Login (Not yet implemented)
+# POST http://localhost:5025/api/auth/login
+# Content-Type: application/json
+# 
+# {
+#   "email": "admin@lbr.com",
+#   "password": "Admin123!"
+# }
+
+###
+
+### Get All Books (Not yet implemented)
+# GET http://localhost:5025/api/books
+# Accept: application/json
+# Authorization: Bearer {{token}}
+
+###
+
+### Search Books (Not yet implemented)
+# GET http://localhost:5025/api/books/search?genre=Programming&author=Martin
+# Accept: application/json
+# Authorization: Bearer {{token}}
+
+###
+
+### Create Book (Not yet implemented - Admin only)
+# POST http://localhost:5025/api/books
+# Content-Type: application/json
+# Authorization: Bearer {{token}}
+#
+# {
+#   "isbn": "978-0134685991",
+#   "title": "Effective Java",
+#   "author": "Joshua Bloch",
+#   "genre": "Programming",
+#   "publishedYear": 2017,
+#   "totalCopies": 5
+# }
+
+###
